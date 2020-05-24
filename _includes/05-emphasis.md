@@ -1,4 +1,4 @@
-#### Programming Languages :: I like to learn a variety of new stuff
+#### Programming Languages :: I like to learn a variety of **new** stuff
   * C++/C
   * Java
   * Python
