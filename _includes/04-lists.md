@@ -1,8 +1,9 @@
-* Programming Languages :dart:
+### Things I like
+* Programming Languages 
   * C++/C
   * Java
   * Python
   * Ruby
-* Open sourcing :blush:
-* Playing guitar :sunglasses:
-* Playing Basketball :basketball:
+* Open sourcing 
+* Playing guitar
+* Playing Basketball 
