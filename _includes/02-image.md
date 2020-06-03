@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image](https://d30i16bbj53pdg.cloudfront.net/wp-content/uploads/2015/04/Study-Group-web.jpeg)
