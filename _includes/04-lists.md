@@ -1,9 +1,10 @@
-### Things I like
+### Tech Blogspace
 * Programming Languages 
   * C++/C
   * Java
   * Python
   * Ruby
 * Open sourcing 
-* Playing guitar
-* Playing Basketball 
+* Data Science
+* ML Basics - Where to start
+* Competitive Programming
