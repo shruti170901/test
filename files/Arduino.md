@@ -1,6 +1,6 @@
-### Arduino: Initiation
+# Arduino: Initiation
 
-https://cdn.sparkfun.com/assets/9/1/e/4/8/515b4656ce395f8a38000000.png
+![image](https://cdn.sparkfun.com/assets/9/1/e/4/8/515b4656ce395f8a38000000.png) 
 
 To put things as they are, *Arduino* is an open-source platform used for building electronics
 projects. Arduino consists of both a physical programmable circuit board (often referred to as a
@@ -19,7 +19,7 @@ send the respective instructions to our muscles: Be it moving the hand, saying s
 blinking.
 
 
-Sensory Receptors→Central Nervous System→Muscles
+#### Sensory Receptors→Central Nervous System→Muscles
 
 
 Now this is where lazy engineers step in. In this ‘Era of Automation’, they have been
@@ -28,7 +28,7 @@ machines that can ‘sense’ their surroundings and ‘act’ accordingly. So w
 action mechanism, and made components that fit the puzzle. Presenting:
 
 
-Sensors→Microcontroller→Actuators
+#### Sensors→Microcontroller→Actuators
 
 
 Just remember these three words. You might be worried that you haven’t encountered the word
