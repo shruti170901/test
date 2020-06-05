@@ -14,6 +14,10 @@ layout: default
 
 <br>
 
+{% include arduino.md %}
+
+<br>
+
 {% include 04-lists.md %}
 
 <br>
